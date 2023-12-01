@@ -8,17 +8,17 @@
 6.   gpg --list-signatures  (A lot of doc say to list keys, but you need signatures)
   '''
 8. Use the key signature to initialize pass vault
-'''
-    pass init 85CA12CBA68ACBE8
-    pass git init
-    pass git remote  add origin https://github.com/johndohoneyjr/provision-passwords.git
-    pass insert Business/CVS
-    pass generate Email/jasondonenfeld.com
-    pass
-Password Store
-├── Business
-│   └── CVS
-└── Email
-    └── jasondonenfeld.com
-    pass git push -u --all
+   '''
+10. pass init 85CA12CBA68ACBE8
+11. pass git init
+12. pass git remote  add origin https://github.com/johndohoneyjr/provision-passwords.git
+13. pass insert Business/CVS
+14. pass generate Email/jasondonenfeld.com
+15. pass
+16. Password Store
+17.    ├── Business
+18.    │   └── CVS
+19.    └── Email
+20.        └── jasondonenfeld.com
+21. git push -u --all
 '''
