@@ -1,5 +1,7 @@
 # provision-passwords
 
+Using WSL on your laptop, or Ubuntu on a VM (A good place for this is your Bastion Host)
+
 1. Add pass, gpg is already installed
 2.  sudo apt install pass
 3.  Create a gpg Key
