@@ -21,4 +21,4 @@ Password Store
 └── Email
     └── jasondonenfeld.com
     pass git push -u --all
-   '''
+'''
